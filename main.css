@@ -49,7 +49,7 @@ a {
 
 .selectallcard {
 	margin: 0 auto;
-    width: 800px;
+	border: 1px
 }
 .LAlistimage {
 	width: auto;  
@@ -101,5 +101,12 @@ a {
 	display: inline;
 	width: 400px;
 	height : 300px;
-	margin: 30px 1200px 30px 30px;
+	/* margin: 30px 1200px 30px 30px; */
+}
+
+.contact_img {
+	float: left;
+}
+.whyIamDoing {
+	background-color:rgb(red, green, blue)
 }
