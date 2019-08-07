@@ -87,7 +87,12 @@ a {
 	width: 500px;
 	margin-left: 310px;
 }
-
+.hrcolor {
+	background-color: antiquewhite;
+}
+#brcolor {
+	background-color: antiquewhite;
+}
 
 
 .paragraph {
