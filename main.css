@@ -89,6 +89,7 @@ a {
 }
 
 
+
 .paragraph {
 	font-size: 28px;
 }
@@ -114,5 +115,11 @@ a {
 	background-color: antiquewhite;
 }
 .video-part {
+	background-color: antiquewhite;
+}
+.headimage {
+	background-color: antiquewhite;
+}
+.trytry {
 	background-color: antiquewhite;
 }
